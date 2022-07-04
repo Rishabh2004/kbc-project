@@ -116,9 +116,9 @@ user_input = sc.next().charAt(0);
 			System.out.println();
 			n++;
 		}
-		System.out.println("           You Win🎖 Rs." + i1+"\\-💰💰");
+		System.out.println("   )        You Win🎖 Rs." + i1+"\\-💰💰");
 		System.out.println();
-		System.out.println("          Thanks for playing KBC 😊");
+		System.out.println(" )         Thanks for playing KBC 😊");
     }
   }
 }}}
